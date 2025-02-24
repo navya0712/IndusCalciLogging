@@ -1,0 +1,4 @@
+2024-10-10 19:22:31,159 INFO c.i.t.c.i.Calci [main] In division:The calInputObj is CalciInput [param1=6.0, param2=3.0]
+2024-10-10 19:22:31,164 INFO c.i.t.c.i.Calci [main] In division:The result of calInputObj = CalciInput [param1=6.0, param2=3.0] is calOutObj= CalciOutput [param1=6.0, param2=3.0, result=2.0, operation=Division]
+2024-10-10 19:22:31,184 INFO c.i.t.c.i.Calci [main] In multiply:The calInputObj is CalciInput [param1=2.0, param2=3.0]
+2024-10-10 19:22:31,184 INFO c.i.t.c.i.Calci [main] In multiply:The result of calInputObj = CalciInput [param1=2.0, param2=3.0] is calOutObj= CalciOutput [param1=2.0, param2=3.0, result=6.0, operation=Multiplication]

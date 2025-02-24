@@ -1,0 +1,4 @@
+2024-10-10 19:22:31,106 INFO c.i.t.c.i.Calci [main] In subtract:The calInputObj is CalciInput [param1=6.0, param2=3.0]
+2024-10-10 19:22:31,112 INFO c.i.t.c.i.Calci [main] In subtract:The result of calInputObj = CalciInput [param1=6.0, param2=3.0] is calOutObj= CalciOutput [param1=6.0, param2=3.0, result=3.0, operation=Subtraction]
+2024-10-10 19:22:31,138 INFO c.i.t.c.i.Calci [main] In addition:The calInputObj is CalciInput [param1=2.0, param2=3.0]
+2024-10-10 19:22:31,138 INFO c.i.t.c.i.Calci [main] In addition:The result of calInputObj = CalciInput [param1=2.0, param2=3.0] is calOutObj= CalciOutput [param1=2.0, param2=3.0, result=5.0, operation=Addition]
